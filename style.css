@@ -1,9 +1,27 @@
 body {
   color: #fff;
-  background: #1A1E26;
+  background: black;
   font-size: 21px;
+  font-family: arial;
 }
 
 p {
-  color: green;
+  color: white;
+}
+
+.row{
+	display: flex;
+	
+}
+
+.column{
+	flex:30%;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color: white;
 }
