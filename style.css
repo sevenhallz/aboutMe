@@ -1,12 +1,26 @@
 body {
   color: #fff;
   background: black;
-  font-size: 21px;
-  font-family: arial;
+  font-family: 'Courier New', monospace;
 }
 
 p {
   color: white;
+  font-size: 18px;
+ 
+  border-top: 20px;
+  border-style: solid;
+  border-color: rgb(221, 221, 221);
+  margin-left: 100px;
+  margin-right: 75px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.internal{
+  
 }
 
 .row{
@@ -20,8 +34,13 @@ p {
 
 a:link{
 	color:white;
+  font-family: 'Courier New', monospace;
 }
 
 a:visited{
 	color: white;
+}
+
+h1{
+  border:5px;
 }
