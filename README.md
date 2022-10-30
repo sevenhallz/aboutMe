@@ -1,3 +1,3 @@
 # aboutMe
 
-Welcome to my page.
+Hello and welcome to my page.
