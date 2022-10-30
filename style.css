@@ -7,13 +7,12 @@ body {
 p {
   color: white;
   font-size: 18px;
- 
   border-top: 20px;
   border-style: solid;
   border-color: rgb(221, 221, 221);
-  margin-left: 100px;
-  margin-right: 75px;
-  margin-top: 25px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
   margin-bottom: 50px;
   padding-left: 10px;
   padding-bottom: 15px;
@@ -41,6 +40,3 @@ a:visited{
 	color: white;
 }
 
-h1{
-  border:5px;
-}
