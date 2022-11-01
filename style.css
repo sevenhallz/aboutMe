@@ -16,6 +16,7 @@ p {
   margin-bottom: 50px;
   padding-left: 10px;
   padding-bottom: 15px;
+  flex: auto;
 }
 
 @keyframes cursor-blink {
@@ -35,7 +36,10 @@ p {
 }
 
 .column{
-	flex:30%;
+flex: 50px;
+padding-left: 130px;
+
+  
 }
 
 a:link{
@@ -47,3 +51,14 @@ a:visited{
 	color: white;
 }
 
+.container{
+align-items: center;
+display: flex; 
+justify-content: center; 
+}
+
+.logo{
+align-items: center;
+display: flex; 
+justify-content: center; 
+}
