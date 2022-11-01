@@ -37,8 +37,7 @@ p {
 
 .column{
 flex: 50px;
-padding-left: 130px;
-
+margin-left: 50%;
   
 }
 
